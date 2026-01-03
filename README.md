@@ -1,4 +1,24 @@
-## Hi there 👋
+# Dr. Neeraj Sharma
+
+**Senior Academic & Management Professional**  
+Strategy | Operations & Transformation | Lean | Agile | Data-Driven Leadership  
+
+**Qualifications**  
+PhD | MBA Finance | M.Com | ICWAI  
+
+**Founder**  
+Sparsh Consultancy Services (Startup/MSME)  
+🌐 [www.rajkamaledu.com](http://www.rajkamaledu.com)  
+
+**Connect**  
+📧 ibtneeraj@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/ibtneeraj)  
+🆔 [ORCID](https://orcid.org/0009-0005-4404-1191)  
+
+**Currently**  
+Contributing to IndiaAI (AIKosh) – Finance & Education datasets/models  
+
+🚀 Open for collaborations in strategy, AI in management, finance transformation!
 
 <!--
 **ibtneeraj/ibtneeraj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
