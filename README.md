@@ -8,10 +8,9 @@ PhD | MBA Finance | M.Com | ICWAI
 
 **Founder**  
 Sparsh Consultancy Services (Startup/MSME)  
-🌐 [www.rajkamaledu.com](http://www.rajkamaledu.com)  
 
 **Connect**  
-📧 ibtneeraj@gmail.com  
+📧 ibtneeeraj@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/ibtneeraj)  
 🆔 [ORCID](https://orcid.org/0009-0005-4404-1191)  
 
