@@ -8,6 +8,7 @@ PhD | MBA Finance | M.Com | ICWAI
 
 **Founder**  
 IBT Commerce Academy 
+
 Sparsh Consultancy Services (Startup/MSME)  
 
 **Connect**  
